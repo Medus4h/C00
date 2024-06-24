@@ -8,7 +8,6 @@
     </ul>
     </main>
   </body>
-</html> 
-
+</html>
 <!-- make a link back to the main hub 
       make this one open on a new tab there -->
